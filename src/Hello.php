@@ -4,7 +4,7 @@ namespace Gcchaan\Hello;
 
 class Hello
 {
-    private $VERSION = 'main';
+    private $VERSION = '0.0.2';
     public function greet() {
         echo "Hello {$this->VERSION}";
     }
