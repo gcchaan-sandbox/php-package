@@ -1,0 +1,12 @@
+{
+    "name": "gcchaan-sandbox/php-package",
+    "description": "テスト",
+    "autoload": {
+        "psr-4": {
+            "Gcchaan\\Hello\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
+
